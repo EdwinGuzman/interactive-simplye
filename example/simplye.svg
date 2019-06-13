@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" width="757px" height="467px" viewBox="0 0 757 467" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <metadata> Produced by OmniGraffle 6.6.2
+        <dc:date>2017-03-08 19:26:08 +0000</dc:date>
+    </metadata>
+    <defs>
+        <rect id="path-1" x="149" y="12" width="205" height="322"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="205" height="322" fill="white">
+            <use xl:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="404" y="12" width="215" height="428"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="215" height="428" fill="white">
+            <use xl:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+        <title>SimplyE Front-End</title>
+        <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <use id="Rectangle" stroke="#979797" mask="url(#mask-2)" stroke-width="2" fill="#FFFFFF" stroke-dasharray="4" transform="translate(251.500000, 173.000000) scale(-1, 1) translate(-251.500000, -173.000000) " xl:href="#path-1"></use>
+            <a xl:href="https://github.com/NYPL-Simplified/opds-web-client">
+                <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="175.5" y="75.5" width="149" height="101"></rect>
+                <text id="OPDS-Web-Client" font-family="Helvetica" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="202" y="129">OPDS Web Client</tspan>
+                </text>
+            </a>
+            <text id="Core-Components" font-family="Helvetica-Bold, Helvetica" font-size="14" font-weight="bold" fill="#000000">
+                <tspan x="160" y="33">Core Components</tspan>
+            </text>
+            <text id="npm-components-used" font-family="Helvetica" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="14" y="25">npm components</tspan>
+                <tspan x="14" y="42">used in the main</tspan>
+                <tspan x="14" y="59">user interfaces</tspan>
+            </text>
+            <use id="Rectangle" stroke="#979797" mask="url(#mask-4)" stroke-width="2" fill="#FFFFFF" stroke-dasharray="4" transform="translate(511.500000, 226.000000) scale(-1, 1) translate(-511.500000, -226.000000) " xl:href="#path-3"></use>
+            <a xl:href="https://github.com/NYPL-Simplified/reusable-components">
+                <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="175.5" y="229.5" width="149" height="53"></rect>
+                <text id="Reusable-Components" font-family="Helvetica" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="189" y="260">Reusable Components</tspan>
+                </text>
+            </a>
+            <path id="Line" d="M430.507894,121.012368 L324.507099,122.507 L324.493,121.507099 L430.493795,120.012468 L430.4374,116.012865 L439.49995,120.385529 L430.564289,125.011971 L430.507894,121.012368 Z" fill="#000000" fill-rule="nonzero"></path>
+            <path id="Line-2" d="M432.802554,236.161193 L324.29319,121.175808 L325.020481,120.489479 L433.529845,235.474864 L436.439008,232.729546 L439.343165,242.363645 L429.893391,238.906511 L432.802554,236.161193 Z" fill="#000000" fill-rule="nonzero"></path>
+            <path id="Line-3" d="M433.486852,359.515576 L324.293147,256.018934 L324.981066,255.293147 L434.174772,358.789789 L436.926451,355.886642 L440.362893,365.34396 L430.735173,362.418723 L433.486852,359.515576 Z" fill="#000000" fill-rule="nonzero"></path>
+            <path id="Line-4" d="M430.546623,250.020009 L324.531584,256.529704 L324.470296,255.531584 L430.485335,249.021889 L430.240183,245.029408 L439.49906,248.969356 L430.791775,254.012489 L430.546623,250.020009 Z" fill="#000000" fill-rule="nonzero"></path>
+            <text id="Patron-and-admin-use" font-family="Helvetica" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="646" y="28">Patron and admin</tspan>
+                <tspan x="646" y="45">user interfaces</tspan>
+            </text>
+            <text id="User-Interfaces" font-family="Helvetica-Bold, Helvetica" font-size="14" font-weight="bold" fill="#000000">
+                <tspan x="413" y="33">User Interfaces</tspan>
+            </text>
+            <a xl:href="https://github.com/NYPL-Simplified/registry_admin">
+                <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="439.5" y="310.5" width="149" height="101"></rect>
+                <text id="Registry-Admin" font-family="Helvetica" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="474" y="365">Registry Admin</tspan>
+                </text>
+            </a>
+            <a xl:href="https://github.com/NYPL-Simplified/circulation-web">
+                <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="439.5" y="191.5" width="149" height="101"></rect>
+                <text id="Circulation-Web-Admi" font-family="Helvetica" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="454" y="246">Circulation Web Admin</tspan>
+                </text>
+            </a>
+            <a xl:href="https://github.com/NYPL-Simplified/circulation-patron-web">
+                <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="440.5" y="75.5" width="149" height="101"></rect>
+                <text id="Circulation-Patron-W" font-family="Helvetica" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="453" y="126">Circulation Patron Web</tspan>
+                </text>
+            </a>
+        </g>
+    </g>
+</svg>
+
