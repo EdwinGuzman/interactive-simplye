@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" width="757px" height="467px" viewBox="0 0 757 467" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <metadata> Produced by OmniGraffle 6.6.2
-        <dc:date>2017-03-08 19:26:08 +0000</dc:date>
-    </metadata>
     <defs>
         <rect id="path-1" x="149" y="12" width="205" height="322"></rect>
         <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="205" height="322" fill="white">
@@ -29,7 +26,7 @@
             </text>
             <text id="npm-components-used" font-family="Helvetica" font-size="14" font-weight="normal" fill="#000000">
                 <tspan x="14" y="25">npm components</tspan>
-                <tspan x="14" y="42">used in the main</tspan>
+                <tspan x="14" y="42">imported into</tspan>
                 <tspan x="14" y="59">user interfaces</tspan>
             </text>
             <use id="Rectangle" stroke="#979797" mask="url(#mask-4)" stroke-width="2" fill="#FFFFFF" stroke-dasharray="4" transform="translate(511.500000, 226.000000) scale(-1, 1) translate(-511.500000, -226.000000) " xl:href="#path-3"></use>

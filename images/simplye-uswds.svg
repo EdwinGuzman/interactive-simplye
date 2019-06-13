@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="765px" height="503px" viewBox="0 0 765 503" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="205" height="322"></rect>
+        <rect id="path-3" x="32" y="364" width="155" height="131"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="155" height="131" fill="white">
+            <use xl:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="0" y="0" width="215" height="428"></rect>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rectangle" stroke-dasharray="4" transform="translate(249.500000, 183.000000) scale(-1, 1) translate(-249.500000, -183.000000) translate(147.000000, 22.000000)">
+            <g id="path-1-Clipped">
+                <mask id="mask-2" fill="white">
+                    <use xl:href="#path-1"></use>
+                </mask>
+                <g id="path-1"></g>
+                <path d="M0,0 L205,0 L205,322 L0,322 L0,0 Z" id="path-1" stroke="#979797" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+        <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" fill-rule="nonzero" x="174" y="86" width="149" height="101"></rect>
+        <use id="Rectangle" stroke="#2A00FF" mask="url(#mask-4)" stroke-width="2" fill="#FFFFFF" stroke-dasharray="4" xl:href="#path-3"></use>
+        <text id="Design-System" font-family="Helvetica-Bold, Helvetica" font-size="14" font-weight="bold" fill="#000000">
+            <tspan x="39" y="385">Design System</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#1C00FF" fill="#FFFFFF" x="39.5" y="395.5" width="118" height="40"></rect>
+        <text id="React-Components" font-family="Helvetica" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="47" y="420">React Components</tspan>
+        </text>
+        <text id="USWDS-CSS-Library-?" font-family="Helvetica" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="44" y="464">USWDS</tspan>
+            <tspan x="44" y="478">CSS Library ?</tspan>
+        </text>
+        <a xl:href="https://github.com/NYPL-Simplified/opds-web-client">
+            <rect id="Rectangle" stroke="#FF0000" x="39.5" y="445.5" width="118" height="40"></rect>
+            <text id="OPDS-Web-Client" fill="#000000" font-family="Helvetica" font-size="12" font-weight="normal">
+                <tspan x="200" y="139">OPDS Web Client</tspan>
+            </text>
+        </a>
+        <text id="Core-Components" fill="#000000" font-family="Helvetica-Bold, Helvetica" font-size="14" font-weight="bold">
+            <tspan x="158" y="43">Core Components</tspan>
+        </text>
+        <text id="npm-components" fill="#000000" font-family="Helvetica" font-size="14" font-weight="normal">
+            <tspan x="23" y="36">npm components</tspan>
+        </text>
+        <text id="used-in-the-main" fill="#000000" font-family="Helvetica" font-size="14" font-weight="normal">
+            <tspan x="23" y="53">used in the main</tspan>
+        </text>
+        <text id="user-interfaces" fill="#000000" font-family="Helvetica" font-size="14" font-weight="normal">
+            <tspan x="23" y="70">user interfaces</tspan>
+        </text>
+        <g id="Rectangle" stroke-dasharray="4" transform="translate(509.500000, 236.000000) scale(-1, 1) translate(-509.500000, -236.000000) translate(402.000000, 22.000000)">
+            <g id="path-3-Clipped">
+                <mask id="mask-6" fill="white">
+                    <use xl:href="#path-5"></use>
+                </mask>
+                <g id="path-3"></g>
+                <path d="M0,0 L215,0 L215,428 L0,428 L0,0 Z" id="path-3" stroke="#979797" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-6)"></path>
+            </g>
+        </g>
+        <a xl:href="https://github.com/NYPL-Simplified/reusable-components">
+            <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" fill-rule="nonzero" x="174" y="240" width="149" height="53"></rect>
+            <text id="Reusable-Components" fill="#000000" font-family="Helvetica" font-size="12" font-weight="normal">
+                <tspan x="187" y="270">Reusable Components</tspan>
+            </text>
+        </a>
+        <polygon id="Line" fill="#000000" fill-rule="nonzero" points="428.008487 131 322.014098 132.49478 322 131.49478 427.994389 130 427.937998 126 437 130.373098 428.064879 135"></polygon>
+        <polygon id="Line-2" fill="#000000" fill-rule="nonzero" points="430.46223 245.791144 322 130.687038 322.726975 130 431.189205 245.104106 434.097104 242.355954 437 252 427.554331 248.539297"></polygon>
+        <polygon id="Line-3" fill="#000000" fill-rule="nonzero" points="431.128091 369.174307 322 265.725452 322.687506 265 431.815597 368.448855 434.565623 365.547049 438 375 428.378065 372.076114"></polygon>
+        <polygon id="Line-4" fill="#000000" fill-rule="nonzero" points="428.049802 260.20745 322.061273 267 322 265.95851 427.988529 259.16596 427.743438 255 437 259.111144 428.294892 264.373408"></polygon>
+        <text id="Patron-and-admin" fill="#000000" font-family="Helvetica" font-size="14" font-weight="normal">
+            <tspan x="637" y="36">Patron and admin</tspan>
+        </text>
+        <text id="user-interfaces" fill="#000000" font-family="Helvetica" font-size="14" font-weight="normal">
+            <tspan x="637" y="53">user interfaces</tspan>
+        </text>
+        <text id="User-Interfaces" fill="#000000" font-family="Helvetica-Bold, Helvetica" font-size="14" font-weight="bold">
+            <tspan x="411" y="43">User Interfaces</tspan>
+        </text>
+        <a xl:href="https://github.com/NYPL-Simplified/registry_admin">
+            <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" fill-rule="nonzero" x="438" y="321" width="149" height="101"></rect>
+            <text id="Registry-Admin" fill="#000000" font-family="Helvetica" font-size="12" font-weight="normal">
+                <tspan x="472" y="375">Registry Admin</tspan>
+            </text>
+        </a>
+        <a xl:href="https://github.com/NYPL-Simplified/circulation-web">
+            <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" fill-rule="nonzero" x="438" y="202" width="149" height="101"></rect>
+            <text id="Circulation-Web-Admin" fill="#000000" font-family="Helvetica" font-size="12" font-weight="normal">
+                <tspan x="452" y="256">Circulation Web Admin</tspan>
+            </text>
+        </a>
+        <a xl:href="https://github.com/NYPL-Simplified/circulation-patron-web">
+            <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" fill-rule="nonzero" x="439" y="86" width="149" height="101"></rect>
+            <text id="Circulation-Patron-Web" fill="#000000" font-family="Helvetica" font-size="12" font-weight="normal">
+                <tspan x="451" y="136">Circulation Patron Web</tspan>
+            </text>
+        </a>
+        <path d="M158,416 C158,147.475097 158,212.285498 158,172.163033 C158,145.414724 163.333333,134.373569 174,139.039569" id="Path" stroke="#3600FF" stroke-dasharray="2"></path>
+        <path d="M158,416 C219.333333,391.568151 250,350.234818 250,292" id="Path-2" stroke="#2400FF" stroke-dasharray="2"></path>
+        <path d="M158,466 C197.140037,456.950005 222.103308,442.283338 232.889812,422 C243.676316,401.716662 249.379712,358.716662 250,293" id="Path-3" stroke="#FF0000" stroke-dasharray="2"></path>
+        <path d="" id="Path-4" stroke="#979797"></path>
+        <path d="M158.534905,465 C155.948466,438.739879 163.458488,419.384533 165.779467,394.874788 C168.126893,370.085752 165.303134,340.178418 165.779467,320.059756 C166.919889,271.892148 159.190547,239.110322 173.523653,215.318929 C178.68394,206.753415 194.40123,209.06342 212.655147,210.024005 C219.810732,210.400557 231.483026,207.449473 238.006967,201.028667 C245.047345,194.09959 248.367612,189.090034 247.967768,186" id="Path-5" stroke="#FF0000" stroke-dasharray="3"></path>
+    </g>
+</svg>
